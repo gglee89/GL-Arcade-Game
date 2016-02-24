@@ -4,7 +4,7 @@ var enemySpeed = [100, 200, 300, 400, 500];
 
 var gemPositionX = [0, 101, 202, 303, 404];
 var gemPositionY = [72, 155, 238];
-var gemType = ["images/Gem Blue.png", "images/Gem Green.png", "images/Gem Orange.png"];
+var gemType = ["images/Gem_Blue.png", "images/Gem_Green.png", "images/Gem_Orange.png"];
 
 var score = [];
 
