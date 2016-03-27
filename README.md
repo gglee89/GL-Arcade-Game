@@ -3,7 +3,7 @@ My Arcade Game is a HTML5 Canvas + JavaScript game developed in compliance with 
 How to Play
 -------------
 You can play this game using one of the following link:
-- (#1) http://gglee89.github.io/My-Arcade-Game/
+- (#1) http://gglee89.github.io/GL-Arcade-Game/
 - (#2) <a href="https://gl-arcade.appspot.com" target="_blank">gl-arcade.appspot.com</a>
 
 To play, use the arrow keys to move the player around the game.
